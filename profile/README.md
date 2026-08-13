@@ -6,6 +6,7 @@ Public materials for the course AI Evaluation at the Hertie School.
 ## Table of Contents
 
 <!-- BEGIN teach:landing-index -->
+* [**lecture-slides-public**](https://github.com/hertie-aie-26/lecture-slides-public) Rendered lecture slides (HTML and PDF), updated as the term progresses.
 <!-- END teach:landing-index -->
 
 The course itself runs in private repositories for enrolled students; the
