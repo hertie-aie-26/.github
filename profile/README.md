@@ -1,7 +1,7 @@
-# AI Evaluation
+# Evaluation of AI Systems
 #### [Drew Dimmery](https://ddimmery.com), [Hertie School Data Science Lab](https://www.hertie-school.org/en/datasciencelab)
 
-Public materials for the course AI Evaluation at the Hertie School.
+Public materials for the course Evaluation of AI Systems at the Hertie School.
 
 ## Table of Contents
 

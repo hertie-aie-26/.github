@@ -7,4 +7,5 @@ context/
 **/curved-grades.csv
 grades*.csv
 .DS_Store
+build/
 # --- end teach managed ---
