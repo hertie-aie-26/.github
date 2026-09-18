@@ -9,3 +9,6 @@ grades*.csv
 .DS_Store
 build/
 # --- end teach managed ---
+
+# Local agent instructions
+AGENTS.md
